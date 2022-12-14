@@ -14,7 +14,7 @@
     border-bottom: 1px solid #3f3e3e;
   }
   
-  .product_table tfoot td {
+  .product_table tfoot {
     background-color: beige;
   }
   
@@ -29,4 +29,8 @@
   .center {
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .icon {
+    width: 1em;
   }
