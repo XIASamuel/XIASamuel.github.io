@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Jack",
+        "email": "jack@kahoot.com",
+        "phone": "099-565-7484"
+    },
+    {
+        "name": "Mike",
+        "email": "mike@gmail.com",
+        "phone": "093-956-4566"
+    },
+    {
+        "name": "John Sam",
+        "email": "john@gmail.com",
+        "phone": "078-568-1231"
+    },
+    {
+		"name": "XIAOMING",
+		"email": "xm@qq.com",
+		"phone": "(86) 18042105299"
+	},
+	{
+		"name": "karask lusf",
+		"email": "kaka@kahoot.com",
+		"phone": "099-465-4884"
+	},
+	{
+		"name": "Lucas J",
+		"email": "lucas@outlook.com",
+		"phone": "088-456-7814"
+	},
+	{
+		"name": "Alex Wen",
+		"email": "alexwen@gmail.com",
+		"phone": "087-456-4332"
+	},
+	{
+		"name": "Samuel",
+		"email": "u6328003@au.edu",
+		"phone": "0939974617"
+	}
+]
